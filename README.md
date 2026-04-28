@@ -15,3 +15,5 @@
 5.日志模式。在接收端定时以当前时间戳显示发送或者输出类型的数据信息
 
 6.DTR和RTS模式的配置
+
+<img width="560" height="372" alt="image" src="https://github.com/user-attachments/assets/1314e182-2637-4545-a2e9-1ecd3d70510d" />
