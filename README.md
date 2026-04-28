@@ -1,0 +1,2 @@
+# Qt_serial_assistant
+一个功能较全的串口调试助手开源版本
